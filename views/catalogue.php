@@ -22,8 +22,7 @@ require "header.php";
                         <div class="team-overlay">
                             <ul class="flex justify-center">
                                 <li class="mx-1">
-                                    <a target="_blank" href="https://dcl.edutick.cl/"
-                                        class="catalogue-link hover:bg-indigo-500 px-1">
+                                    <a href="dcl-140.php" class="catalogue-link hover:bg-indigo-500 px-1">
                                         <i class="fa-solid fa-hand-point-right mr-1"></i> Ver Más
                                     </a>
                                 </li>
@@ -31,7 +30,8 @@ require "header.php";
                         </div>
                     </div>
                     <div class="text-center px-5 py-3">
-                        <a href="" class="team-name">Material Educativo Digital EDUTICK – Dominio y Comprensión Lectora
+                        <a href="dcl-140.php" class="team-name">Material Educativo Digital EDUTICK – Dominio y
+                            Comprensión Lectora
                             DCL-140 UNIDAD</a>
                         <hr class="dcl-color mb-2">
                         <p>PART NUMBER: DCL-140.</p>
@@ -47,8 +47,7 @@ require "header.php";
                         <div class="team-overlay">
                             <ul class="flex justify-center">
                                 <li class="mx-1">
-                                    <a target="_blank" href="https://dcl.edutick.cl/"
-                                        class="catalogue-link hover:bg-indigo-500 px-1">
+                                    <a href="sd-440.php" class="catalogue-link hover:bg-indigo-500 px-1">
                                         <i class="fa-solid fa-hand-point-right mr-1"></i> Ver Más
                                     </a>
                                 </li>
@@ -56,7 +55,7 @@ require "header.php";
                         </div>
                     </div>
                     <div class="text-center px-5 py-3">
-                        <a href="" class="team-name">Material Educativo Digital EDUTICK – Simce Digital SD-440
+                        <a href="sd-440.php" class="team-name">Material Educativo Digital EDUTICK – Simce Digital SD-440
                             UNIDAD</a>
                         <hr class="simce-color mb-2">
                         <p>PART NUMBER: SD-440</p>
@@ -72,8 +71,7 @@ require "header.php";
                         <div class="team-overlay">
                             <ul class="flex justify-center">
                                 <li class="mx-1">
-                                    <a target="_blank" href="https://dcl.edutick.cl/"
-                                        class="catalogue-link hover:bg-indigo-500 px-1">
+                                    <a href="sd-450.php" class="catalogue-link hover:bg-indigo-500 px-1">
                                         <i class="fa-solid fa-hand-point-right mr-1"></i> Ver Más
                                     </a>
                                 </li>
@@ -81,7 +79,7 @@ require "header.php";
                         </div>
                     </div>
                     <div class="text-center px-5 py-3">
-                        <a href="" class="team-name">Material Educativo Digital EDUTICK – Simce Digital SD-450
+                        <a href="sd-450.php" class="team-name">Material Educativo Digital EDUTICK – Simce Digital SD-450
                             UNIDAD</a>
                         <hr class="simce-color mb-2">
                         <p>PART NUMBER: SD-450</p>
@@ -97,8 +95,7 @@ require "header.php";
                         <div class="team-overlay">
                             <ul class="flex justify-center">
                                 <li class="mx-1">
-                                    <a target="_blank" href="https://dcl.edutick.cl/"
-                                        class="catalogue-link hover:bg-indigo-500 px-1">
+                                    <a href="dcl-150.php" class="catalogue-link hover:bg-indigo-500 px-1">
                                         <i class="fa-solid fa-hand-point-right mr-1"></i> Ver Más
                                     </a>
                                 </li>
@@ -106,7 +103,8 @@ require "header.php";
                         </div>
                     </div>
                     <div class="text-center px-5 py-3">
-                        <a href="" class="team-name">Material Educativo Digital EDUTICK – Dominio y Comprensión Lectora
+                        <a href="dcl-150.php" class="team-name">Material Educativo Digital EDUTICK – Dominio y
+                            Comprensión Lectora
                             DCL-150 UNIDAD</a>
                         <hr class="dcl-color mb-2">
                         <p>PART NUMBER: DCL-150</p>
@@ -122,8 +120,7 @@ require "header.php";
                         <div class="team-overlay">
                             <ul class="flex justify-center">
                                 <li class="mx-1">
-                                    <a target="_blank" href="https://dcl.edutick.cl/"
-                                        class="catalogue-link hover:bg-indigo-500 px-1">
+                                    <a href="sd-401.php" class="catalogue-link hover:bg-indigo-500 px-1">
                                         <i class="fa-solid fa-hand-point-right mr-1"></i> Ver Más
                                     </a>
                                 </li>
@@ -131,7 +128,7 @@ require "header.php";
                         </div>
                     </div>
                     <div class="text-center px-5 py-3">
-                        <a href="" class="team-name">Material Educativo Digital EDUTICK – Simce Digital SD-401
+                        <a href="sd-401.php" class="team-name">Material Educativo Digital EDUTICK – Simce Digital SD-401
                             Unidad</a>
                         <hr class="simce-color mb-2">
                         <p>PART NUMBER: SD-401</p>
@@ -147,8 +144,7 @@ require "header.php";
                         <div class="team-overlay">
                             <ul class="flex justify-center">
                                 <li class="mx-1">
-                                    <a target="_blank" href="https://dcl.edutick.cl/"
-                                        class="catalogue-link hover:bg-indigo-500 px-1">
+                                    <a href="sw-02.php" class="catalogue-link hover:bg-indigo-500 px-1">
                                         <i class="fa-solid fa-hand-point-right mr-1"></i> Ver Más
                                     </a>
                                 </li>
@@ -156,7 +152,8 @@ require "header.php";
                         </div>
                     </div>
                     <div class="text-center px-5 py-3">
-                        <a href="" class="team-name">Material Educativo Digital – SMART Notebook ED-SW-2 UNIDAD 2
+                        <a href="sw-02.php" class="team-name">Material Educativo Digital – SMART Notebook ED-SW-2 UNIDAD
+                            2
                             años</a>
                         <hr class="dcl-color mb-2">
                         <p>PART NUMBER: ED-SW-2</p>
@@ -172,8 +169,7 @@ require "header.php";
                         <div class="team-overlay">
                             <ul class="flex justify-center">
                                 <li class="mx-1">
-                                    <a target="_blank" href="https://dcl.edutick.cl/"
-                                        class="catalogue-link hover:bg-indigo-500 px-1">
+                                    <a href="sw-01.php" class="catalogue-link hover:bg-indigo-500 px-1">
                                         <i class="fa-solid fa-hand-point-right mr-1"></i> Ver Más
                                     </a>
                                 </li>
@@ -181,7 +177,8 @@ require "header.php";
                         </div>
                     </div>
                     <div class="text-center px-5 py-3">
-                        <a href="" class="team-name">Material Educativo Digital – SMART Notebook ED-SW-01 UNIDAD 1
+                        <a href="sw-01.php" class="team-name">Material Educativo Digital – SMART Notebook ED-SW-01
+                            UNIDAD 1
                             año</a>
                         <hr class="dcl-color mb-2">
                         <p>PART NUMBER: ED-SW-01</p>
@@ -197,8 +194,7 @@ require "header.php";
                         <div class="team-overlay">
                             <ul class="flex justify-center">
                                 <li class="mx-1">
-                                    <a target="_blank" href="https://dcl.edutick.cl/"
-                                        class="catalogue-link hover:bg-indigo-500 px-1">
+                                    <a href="inedu-301.php" class="catalogue-link hover:bg-indigo-500 px-1">
                                         <i class="fa-solid fa-hand-point-right mr-1"></i> Ver Más
                                     </a>
                                 </li>
@@ -206,7 +202,9 @@ require "header.php";
                         </div>
                     </div>
                     <div class="text-center px-5 py-3">
-                        <a href="" class="team-name">Material Educativo Digital EDUTICK – Recurso de Gestión Educativa
+                        <a href="inedu-301.php" class="team-name">Material Educativo Digital EDUTICK – Recurso de
+                            Gestión
+                            Educativa
                             IN-301 UNIDAD</a>
                         <hr class="inedu-color mb-2">
                         <p>PART NUMBER: INEDU-301</p>
@@ -222,8 +220,7 @@ require "header.php";
                         <div class="team-overlay">
                             <ul class="flex justify-center">
                                 <li class="mx-1">
-                                    <a target="_blank" href="https://dcl.edutick.cl/"
-                                        class="catalogue-link hover:bg-indigo-500 px-1">
+                                    <a href="sd-430.php" class="catalogue-link hover:bg-indigo-500 px-1">
                                         <i class="fa-solid fa-hand-point-right mr-1"></i> Ver Más
                                     </a>
                                 </li>
@@ -231,7 +228,7 @@ require "header.php";
                         </div>
                     </div>
                     <div class="text-center px-5 py-3">
-                        <a href="" class="team-name">Material Educativo Digital EDUTICK – Simce Digital SD-430
+                        <a href="sd-430.php" class="team-name">Material Educativo Digital EDUTICK – Simce Digital SD-430
                             UNIDAD</a>
                         <hr class="simce-color mb-2">
                         <p>PART NUMBER: SD-430</p>
@@ -247,8 +244,7 @@ require "header.php";
                         <div class="team-overlay">
                             <ul class="flex justify-center">
                                 <li class="mx-1">
-                                    <a target="_blank" href="https://dcl.edutick.cl/"
-                                        class="catalogue-link hover:bg-indigo-500 px-1">
+                                    <a href="sd-420.php" class="catalogue-link hover:bg-indigo-500 px-1">
                                         <i class="fa-solid fa-hand-point-right mr-1"></i> Ver Más
                                     </a>
                                 </li>
@@ -256,7 +252,7 @@ require "header.php";
                         </div>
                     </div>
                     <div class="text-center px-5 py-3">
-                        <a href="" class="team-name">Material Educativo Digital EDUTICK – Simce Digital SD-420
+                        <a href="sd-420.php" class="team-name">Material Educativo Digital EDUTICK – Simce Digital SD-420
                             UNIDAD</a>
                         <hr class="simce-color mb-2">
                         <p>PART NUMBER: SD-420</p>
@@ -272,8 +268,7 @@ require "header.php";
                         <div class="team-overlay">
                             <ul class="flex justify-center">
                                 <li class="mx-1">
-                                    <a target="_blank" href="https://dcl.edutick.cl/"
-                                        class="catalogue-link hover:bg-indigo-500 px-1">
+                                    <a href="dcl-130.php" class="catalogue-link hover:bg-indigo-500 px-1">
                                         <i class="fa-solid fa-hand-point-right mr-1"></i> Ver Más
                                     </a>
                                 </li>
@@ -281,7 +276,8 @@ require "header.php";
                         </div>
                     </div>
                     <div class="text-center px-5 py-3">
-                        <a href="" class="team-name">Material Educativo Digital EDUTICK – Dominio y Comprensión Lectora
+                        <a href="dcl-130.php" class="team-name">Material Educativo Digital EDUTICK – Dominio y
+                            Comprensión Lectora
                             DCL-130 UNIDAD</a>
                         <hr class="dcl-color mb-2">
                         <p>PART NUMBER: DCL-130</p>
@@ -297,8 +293,7 @@ require "header.php";
                         <div class="team-overlay">
                             <ul class="flex justify-center">
                                 <li class="mx-1">
-                                    <a target="_blank" href="https://dcl.edutick.cl/"
-                                        class="catalogue-link hover:bg-indigo-500 px-1">
+                                    <a href="dcl-120.php" class="catalogue-link hover:bg-indigo-500 px-1">
                                         <i class="fa-solid fa-hand-point-right mr-1"></i> Ver Más
                                     </a>
                                 </li>
@@ -306,7 +301,8 @@ require "header.php";
                         </div>
                     </div>
                     <div class="text-center px-5 py-3">
-                        <a href="" class="team-name">Material Educativo Digital EDUTICK – Dominio y Comprensión Lectora
+                        <a href="dcl-120.php" class="team-name">Material Educativo Digital EDUTICK – Dominio y
+                            Comprensión Lectora
                             DCL-120 UNIDAD</a>
                         <hr class="dcl-color mb-2">
                         <p>PART NUMBER: DCL00120</p>
@@ -322,8 +318,7 @@ require "header.php";
                         <div class="team-overlay">
                             <ul class="flex justify-center">
                                 <li class="mx-1">
-                                    <a target="_blank" href="https://dcl.edutick.cl/"
-                                        class="catalogue-link hover:bg-indigo-500 px-1">
+                                    <a href="dcl-101.php" class="catalogue-link hover:bg-indigo-500 px-1">
                                         <i class="fa-solid fa-hand-point-right mr-1"></i> Ver Más
                                     </a>
                                 </li>
@@ -331,7 +326,8 @@ require "header.php";
                         </div>
                     </div>
                     <div class="text-center px-5 py-3">
-                        <a href="" class="team-name">Material Educativo Digital EDUTICK – Dominio y Comprensión Lectora
+                        <a href="dcl-101.php" class="team-name">Material Educativo Digital EDUTICK – Dominio y
+                            Comprensión Lectora
                             DCL-101 UNIDAD</a>
                         <hr class="dcl-color mb-2">
                         <p>PART NUMBER: DCL-101</p>

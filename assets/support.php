@@ -4,21 +4,13 @@
     if ($_SERVER["REQUEST_METHOD"] == "POST") {
         // Get the form fields and remove whitespace.
         $name = strip_tags(trim($_POST["name"]));
-		$name = str_replace(array("\r","\n"),array(" "," "),$name);
-        $school = strip_tags(trim($_POST["school"]));
-		$school = str_replace(array("\r","\n"),array(" "," "),$school);
-        $rbd = trim($_POST["rbd"]);
-        $comuna = strip_tags(trim($_POST["comuna"]));
-		$comuna = str_replace(array("\r","\n"),array(" "," "),$comuna);
-        $cargo = strip_tags(trim($_POST["cargo"]));
-		$cargo = str_replace(array("\r","\n"),array(" "," "),$cargo);
-        $fono = trim($_POST["fono"]);
+				$name = str_replace(array("\r","\n"),array(" "," "),$name);
         $email = filter_var(trim($_POST["email"]), FILTER_SANITIZE_EMAIL);
-        $asunto = trim($_POST["asunto"]);
-        $message = trim($_POST["mensaje"]);
+        $subject = filter_var(trim($_POST["subject"]), FILTER_SANITIZE_EMAIL);
+        $message = trim($_POST["message"]);
 
         // Check that data was sent to the mailer.
-        if ( empty($name) OR empty($school) OR empty($comuna) OR empty($cargo) OR empty($fono) OR !filter_var($email, FILTER_VALIDATE_EMAIL)) {
+        if ( empty($name) OR empty($message) OR empty($subject) OR !filter_var($email, FILTER_VALIDATE_EMAIL)) {
             // Set a 400 (bad request) response code and exit.
             http_response_code(400);
             echo "Por favor, complete el formulario y vuelva a intentarlo.";
@@ -30,13 +22,13 @@
         $recipient = "f.alfaro.sagua@gmail.com";
 
         // Set the email subject.
-        $subject = "Nuevo contacto de $name";
+        $subject = "New contact from $name";
 
         // Build the email content.
-        $email_content = "Nombre: $name\n";
+        $email_content = "Name: $name\n";
         $email_content .= "Email: $email\n\n";
-        $email_content .= "Asunto: $asunto\n\n";
-        $email_content .= "Mensaje:\n$message\n";
+        $email_content .= "Subject: $subject\n\n";
+        $email_content .= "Message:\n$message\n";
 
         // Build the email headers.
         $email_headers = "From: $name <$email>";
