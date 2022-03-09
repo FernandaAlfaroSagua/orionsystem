@@ -18,7 +18,7 @@ require "header.php";
         <div class="flex flex-wrap contact-form-area wow fadeInUp" data-wow-delay="0.4s">
             <div class="w-full md:w-1/2 flex items-center flex-col">
                 <div class="m-4 md:ml-12 wow fadeIn">
-                    <img src="/assets/img/orionsystem/eblock.jpg" alt="Logo">
+                    <img src="assets/img/orionsystem/eblock.jpg" alt="Logo">
                 </div>
 
 
@@ -62,8 +62,9 @@ require "header.php";
                 <!-- galleria starts -->
                 <div class="w-3/4 sm:w-2/3 md:w-1/2 lg:w-1/4">
                     <div class="pricing-box wow fadeInLeft" data-wow-delay="1.2s">
-                        <a href="/assets/img/orionsystem/eblock1.jpg" data-fancybox=" gallery" data-caption="E-Blocks">
-                            <img src="/assets/img/orionsystem/eblock1.jpg" alt="Logo">
+                        <a href="assets/img/orionsystem/eblock1.jpg" data-fancybox=" gallery" data-caption="E-Blocks">
+                            <img src="assets/img/orionsystem/eblock1.jpg"
+                                style="height: 12rem; object-fit:cover; width:fit-content;" alt="Logo">
                         </a>
                     </div>
                 </div>
@@ -71,8 +72,9 @@ require "header.php";
                 <!-- galleria starts -->
                 <div class="w-3/4 sm:w-2/3 md:w-1/2 lg:w-1/4">
                     <div class="pricing-box wow fadeInLeft" data-wow-delay="1.2s">
-                        <a href="/assets/img/orionsystem/eblock2.jpg" data-fancybox=" gallery" data-caption="E-Blocks">
-                            <img src="/assets/img/orionsystem/eblock2.jpg" alt="Logo">
+                        <a href="assets/img/orionsystem/eblock2.jpg" data-fancybox=" gallery" data-caption="E-Blocks">
+                            <img src="assets/img/orionsystem/eblock2.jpg"
+                                style="height: 12rem; object-fit:cover; width:fit-content;" alt="Logo">
                         </a>
                     </div>
                 </div>
@@ -80,8 +82,9 @@ require "header.php";
                 <!-- galleria starts -->
                 <div class="w-3/4 sm:w-2/3 md:w-1/2 lg:w-1/4">
                     <div class="pricing-box wow fadeInLeft" data-wow-delay="1.2s">
-                        <a href="/assets/img/orionsystem/eblock3.jpg" data-fancybox=" gallery" data-caption="E-Blocks">
-                            <img src="/assets/img/orionsystem/eblock3.jpg" alt="Logo">
+                        <a href="assets/img/orionsystem/eblock3.jpg" data-fancybox=" gallery" data-caption="E-Blocks">
+                            <img src="assets/img/orionsystem/eblock3.jpg"
+                                style="height: 12rem; object-fit:cover; width:fit-content;" alt="Logo">
                         </a>
                     </div>
                 </div>
@@ -89,8 +92,9 @@ require "header.php";
                 <!-- galleria starts -->
                 <div class="w-3/4 sm:w-2/3 md:w-1/2 lg:w-1/4">
                     <div class="pricing-box wow fadeInLeft" data-wow-delay="1.2s">
-                        <a href="/assets/img/orionsystem/eblock4.jpg" data-fancybox=" gallery" data-caption="E-Blocks">
-                            <img src="/assets/img/orionsystem/eblock4.jpg" alt="Logo">
+                        <a href="assets/img/orionsystem/eblock4.jpg" data-fancybox=" gallery" data-caption="E-Blocks">
+                            <img src="assets/img/orionsystem/eblock4.jpg"
+                                style="height: 12rem; object-fit:cover; width:fit-content;" alt="Logo">
                         </a>
                     </div>
                 </div>

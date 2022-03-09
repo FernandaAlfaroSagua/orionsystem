@@ -112,6 +112,11 @@
         translate: ["100%", 0, 0],
       },
     },
+    // Navigation arrows
+    navigation: {
+      nextEl: ".swiper-button-next",
+      prevEl: ".swiper-button-prev",
+    },
   });
   let swiper2 = new Swiper(".mySwiper2", {
     grabCursor: true,

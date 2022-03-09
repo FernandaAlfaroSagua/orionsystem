@@ -8,7 +8,7 @@
         <div class="container">
             <nav class="navbar py-2 navbar-expand-lg flex justify-between items-center relative duration-300">
                 <a class="navbar-brand mr-5" href="index.php">
-                    <img src="/assets/img/orionsystem/logo-footer.png" alt="Logo">
+                    <img src="assets/img/orionsystem/logo-footer.png" alt="Logo">
                 </a>
                 <button class="navbar-toggler focus:outline-none block lg:hidden" type="button" data-toggle="collapse"
                     data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"

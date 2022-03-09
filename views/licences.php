@@ -61,8 +61,9 @@ require "header.php";
                 <!-- galleria starts -->
                 <div class="w-3/4 sm:w-2/3 md:w-1/2 lg:w-1/4">
                     <div class="pricing-box wow fadeInLeft" data-wow-delay="1.2s">
-                        <a href="/assets/img/orionsystem/smart1.jpg" data-fancybox=" gallery" data-caption="Smart">
-                            <img src="/assets/img/orionsystem/smart1.jpg" alt="Logo">
+                        <a href="assets/img/orionsystem/smart1.jpg" data-fancybox=" gallery" data-caption="Smart">
+                            <img src="assets/img/orionsystem/smart1.jpg"
+                                style="height: 12rem; object-fit:contain; width:fit-content;" alt="Logo">
                         </a>
                     </div>
                 </div>
@@ -70,8 +71,9 @@ require "header.php";
                 <!-- galleria starts -->
                 <div class="w-3/4 sm:w-2/3 md:w-1/2 lg:w-1/4">
                     <div class="pricing-box wow fadeInLeft" data-wow-delay="1.2s">
-                        <a href="/assets/img/orionsystem/smart2.jpg" data-fancybox=" gallery" data-caption="Smart">
-                            <img src="/assets/img/orionsystem/smart2.jpg" alt="Logo">
+                        <a href="assets/img/orionsystem/smart2.jpg" data-fancybox=" gallery" data-caption="Smart">
+                            <img src="assets/img/orionsystem/smart2.jpg"
+                                style="height: 12rem; object-fit:contain; width:fit-content;" alt="Logo">
                         </a>
                     </div>
                 </div>
@@ -79,8 +81,9 @@ require "header.php";
                 <!-- galleria starts -->
                 <div class="w-3/4 sm:w-2/3 md:w-1/2 lg:w-1/4">
                     <div class="pricing-box wow fadeInLeft" data-wow-delay="1.2s">
-                        <a href="/assets/img/orionsystem/smart3.jpg" data-fancybox=" gallery" data-caption="Smart">
-                            <img src="/assets/img/orionsystem/smart3.jpg" alt="Logo">
+                        <a href="assets/img/orionsystem/smart3.jpg" data-fancybox=" gallery" data-caption="Smart">
+                            <img src="assets/img/orionsystem/smart3.jpg"
+                                style="height: 12rem; object-fit:cover; width:fit-content;" alt="Logo">
                         </a>
                     </div>
                 </div>
@@ -88,8 +91,9 @@ require "header.php";
                 <!-- galleria starts -->
                 <div class="w-3/4 sm:w-2/3 md:w-1/2 lg:w-1/4">
                     <div class="pricing-box wow fadeInLeft" data-wow-delay="1.2s">
-                        <a href="/assets/img/orionsystem/smart4.jpg" data-fancybox=" gallery" data-caption="Smart">
-                            <img src="/assets/img/orionsystem/smart4.jpg" alt="Logo">
+                        <a href="assets/img/orionsystem/smart4.jpg" data-fancybox=" gallery" data-caption="Smart">
+                            <img src="assets/img/orionsystem/smart4.jpg"
+                                style="height: 12rem; object-fit:cover; width:fit-content;" alt="Logo">
                         </a>
                     </div>
                 </div>
@@ -97,8 +101,9 @@ require "header.php";
                 <!-- galleria starts -->
                 <div class="w-3/4 sm:w-2/3 md:w-1/2 lg:w-1/4">
                     <div class="pricing-box wow fadeInLeft" data-wow-delay="1.2s">
-                        <a href="/assets/img/orionsystem/smart5.jpg" data-fancybox=" gallery" data-caption="Smart">
-                            <img src="/assets/img/orionsystem/smart5.jpg" alt="Logo">
+                        <a href="assets/img/orionsystem/smart5.jpg" data-fancybox=" gallery" data-caption="Smart">
+                            <img src="assets/img/orionsystem/smart5.jpg"
+                                style="height: 12rem; object-fit:cover; width:fit-content;" alt="Logo">
                         </a>
                     </div>
                 </div>
@@ -106,8 +111,9 @@ require "header.php";
                 <!-- galleria starts -->
                 <div class="w-3/4 sm:w-2/3 md:w-1/2 lg:w-1/4">
                     <div class="pricing-box wow fadeInLeft" data-wow-delay="1.2s">
-                        <a href="/assets/img/orionsystem/smart6.jpg" data-fancybox=" gallery" data-caption="Smart">
-                            <img src="/assets/img/orionsystem/smart6.jpg" alt="Logo">
+                        <a href="assets/img/orionsystem/smart6.jpg" data-fancybox=" gallery" data-caption="Smart">
+                            <img src="assets/img/orionsystem/smart6.jpg"
+                                style="height: 12rem; object-fit:cover; width:fit-content;" alt="Logo">
                         </a>
                     </div>
                 </div>
@@ -115,8 +121,9 @@ require "header.php";
                 <!-- galleria starts -->
                 <div class="w-3/4 sm:w-2/3 md:w-1/2 lg:w-1/4">
                     <div class="pricing-box wow fadeInLeft" data-wow-delay="1.2s">
-                        <a href="/assets/img/orionsystem/smart7.jpg" data-fancybox=" gallery" data-caption="Smart">
-                            <img src="/assets/img/orionsystem/smart7.jpg" alt="Logo">
+                        <a href="assets/img/orionsystem/smart7.jpg" data-fancybox=" gallery" data-caption="Smart">
+                            <img src="assets/img/orionsystem/smart7.jpg"
+                                style="height: 12rem; object-fit:cover; width:fit-content;" alt="Logo">
                         </a>
                     </div>
                 </div>
@@ -124,8 +131,9 @@ require "header.php";
                 <!-- galleria starts -->
                 <div class="w-3/4 sm:w-2/3 md:w-1/2 lg:w-1/4">
                     <div class="pricing-box wow fadeInLeft" data-wow-delay="1.2s">
-                        <a href="/assets/img/orionsystem/smart8.jpg" data-fancybox=" gallery" data-caption="Smart">
-                            <img src="/assets/img/orionsystem/smart8.jpg" alt="Logo">
+                        <a href="assets/img/orionsystem/smart8.jpg" data-fancybox=" gallery" data-caption="Smart">
+                            <img src="assets/img/orionsystem/smart8.jpg"
+                                style="height: 12rem; object-fit:cover; width:fit-content;" alt="Logo">
                         </a>
                     </div>
                 </div>

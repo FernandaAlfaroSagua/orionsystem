@@ -13,18 +13,18 @@ require "header.php";
         <div class="flex flex-wrap contact-form-area wow fadeInUp justify-center" data-wow-delay="0.4s">
             <div class="w-full md:w-1/2 lg:w-1/3 flex items-center flex-col">
                 <div class="m-4 md:ml-12 wow fadeIn">
-                    <a href="/assets/img/orionsystem/catalogo1.jpg" data-fancybox=" gallery"
+                    <a href="assets/img/orionsystem/catalogo1.jpg" data-fancybox=" gallery"
                         data-caption="Dominio y Comprensión Lectora DCL">
-                        <img src="/assets/img/orionsystem/catalogo1.jpg" alt="Logo">
+                        <img src="assets/img/orionsystem/catalogo1.jpg" alt="Logo">
                     </a>
                 </div>
                 <div class="flex flex-wrap">
                     <!-- galleria starts -->
                     <div class="w-1/2 sm:w-1/2 md:w-1/2 lg:w-1/2">
                         <div class="m-4 md:ml-12 wow fadeInLeft" data-wow-delay="1.2s">
-                            <a href="/assets/img/orionsystem/dcl1.jpg" data-fancybox=" gallery"
+                            <a href="assets/img/orionsystem/dcl1.jpg" data-fancybox=" gallery"
                                 data-caption="Dominio y Comprensión Lectora DCL">
-                                <img src="/assets/img/orionsystem/dcl1.jpg" alt="Logo">
+                                <img src="assets/img/orionsystem/dcl1.jpg" alt="Logo">
                             </a>
                         </div>
                     </div>
@@ -32,9 +32,9 @@ require "header.php";
                     <!-- galleria starts -->
                     <div class="w-1/2 sm:w-1/2 md:w-1/2 lg:w-1/2">
                         <div class="m-4 wow fadeInLeft" data-wow-delay="1.2s">
-                            <a href="/assets/img/orionsystem/dcl2.jpg" data-fancybox=" gallery"
+                            <a href="assets/img/orionsystem/dcl2.jpg" data-fancybox=" gallery"
                                 data-caption="Dominio y Comprensión Lectora DCL">
-                                <img src="/assets/img/orionsystem/dcl2.jpg" alt="Logo">
+                                <img src="assets/img/orionsystem/dcl2.jpg" alt="Logo">
                             </a>
                         </div>
                     </div>

@@ -13,12 +13,13 @@ require "header.php";
             </h2>
         </div>
 
-        <div class="flex flex-wrap justify-center items-center">
+        <div class="flex flex-wrap justify-center">
             <!-- Education Item Starts -->
             <div class="max-w-sm sm:w-1/2 md:w-1/2 lg:w-1/4 self-center">
-                <div class="team-item">
+                <div class="team-item" style="height: 25rem;">
                     <div class="team-img m-2 flex justify-center relative">
-                        <img class="img-fluid" src="/assets/img/orionsystem/catalogo1.jpg" alt="DCL">
+                        <img class="img-fluid" style="height: 12rem; object-fit:cover; width:fit-content;"
+                            src="assets/img/orionsystem/catalogo1.jpg" alt="DCL">
                         <div class="team-overlay">
                             <ul class="flex justify-center">
                                 <li class="mx-1">
@@ -34,16 +35,17 @@ require "header.php";
                             Comprensión Lectora
                             DCL-140 UNIDAD</a>
                         <hr class="dcl-color mb-2">
-                        <p>PART NUMBER: DCL-140.</p>
+                        <p>PART NUMBER: DCL-140</p>
                     </div>
                 </div>
             </div>
             <!-- Education Item Ends -->
             <!-- Education Item Starts -->
-            <div class="max-w-sm sm:w-1/2 md:w-1/2 lg:w-1/4 self-center">
-                <div class="team-item">
+            <div class="max-w-sm sm:w-1/2 md:w-1/2 lg:w-1/4 self-center ">
+                <div class="team-item " style="height: 25rem;">
                     <div class="team-img m-2 flex justify-center relative">
-                        <img class="img-fluid" src="/assets/img/orionsystem/catalogo2.jpg" alt="SIMCE">
+                        <img class="img-fluid" style="height: 12rem; object-fit:cover; width:fit-content;"
+                            src="assets/img/orionsystem/catalogo2.jpg" alt="SIMCE">
                         <div class="team-overlay">
                             <ul class="flex justify-center">
                                 <li class="mx-1">
@@ -64,10 +66,11 @@ require "header.php";
             </div>
             <!-- Education Item Ends -->
             <!-- Education Item Starts -->
-            <div class="max-w-sm sm:w-1/2 md:w-1/2 lg:w-1/4 self-center">
-                <div class="team-item">
+            <div class="max-w-sm sm:w-1/2 md:w-1/2 lg:w-1/4 self-center ">
+                <div class="team-item" style="height: 25rem;">
                     <div class="team-img m-2 flex justify-center relative">
-                        <img class="img-fluid" src="/assets/img/orionsystem/catalogo2.jpg" alt="SIMCE">
+                        <img class="img-fluid" style="height: 12rem; object-fit:cover; width:fit-content;"
+                            src="assets/img/orionsystem/catalogo2.jpg" alt="SIMCE">
                         <div class="team-overlay">
                             <ul class="flex justify-center">
                                 <li class="mx-1">
@@ -88,10 +91,11 @@ require "header.php";
             </div>
             <!-- Education Item Ends -->
             <!-- Education Item Starts -->
-            <div class="max-w-sm sm:w-1/2 md:w-1/2 lg:w-1/4 self-center">
-                <div class="team-item">
+            <div class="max-w-sm sm:w-1/2 md:w-1/2 lg:w-1/4 self-center ">
+                <div class="team-item" style="height: 25rem;">
                     <div class="team-img m-2 flex justify-center relative">
-                        <img class="img-fluid" src="/assets/img/orionsystem/catalogo3.jpg" alt="DCL">
+                        <img class="img-fluid" style="height: 12rem; object-fit:cover; width:fit-content;"
+                            src="assets/img/orionsystem/catalogo3.jpg" alt="DCL">
                         <div class="team-overlay">
                             <ul class="flex justify-center">
                                 <li class="mx-1">
@@ -113,10 +117,11 @@ require "header.php";
             </div>
             <!-- Education Item Ends -->
             <!-- Education Item Starts -->
-            <div class="max-w-sm sm:w-1/2 md:w-1/2 lg:w-1/4 self-center">
-                <div class="team-item">
+            <div class="max-w-sm sm:w-1/2 md:w-1/2 lg:w-1/4 self-center ">
+                <div class="team-item" style="height: 25rem;">
                     <div class="team-img m-2 flex justify-center relative">
-                        <img class="img-fluid" src="/assets/img/orionsystem/catalogo2.jpg" alt="SIMCE">
+                        <img class="img-fluid" style="height: 12rem; object-fit:cover; width:fit-content;"
+                            src="assets/img/orionsystem/catalogo2.jpg" alt="SIMCE">
                         <div class="team-overlay">
                             <ul class="flex justify-center">
                                 <li class="mx-1">
@@ -137,10 +142,11 @@ require "header.php";
             </div>
             <!-- Education Item Ends -->
             <!-- Education Item Starts -->
-            <div class="max-w-sm sm:w-1/2 md:w-1/2 lg:w-1/4 self-center">
-                <div class="team-item">
+            <div class="max-w-sm sm:w-1/2 md:w-1/2 lg:w-1/4 self-center ">
+                <div class="team-item" style="height: 25rem;">
                     <div class="team-img m-2 flex justify-center relative">
-                        <img class="img-fluid" src="/assets/img/orionsystem/catalogo4.jpg" alt="SMART">
+                        <img class="img-fluid" style="height: 12rem; object-fit:cover; width:fit-content;"
+                            src="assets/img/orionsystem/catalogo4.jpg" alt="SMART">
                         <div class="team-overlay">
                             <ul class="flex justify-center">
                                 <li class="mx-1">
@@ -162,10 +168,11 @@ require "header.php";
             </div>
             <!-- Education Item Ends -->
             <!-- Education Item Starts -->
-            <div class="max-w-sm sm:w-1/2 md:w-1/2 lg:w-1/4 self-center">
-                <div class="team-item">
+            <div class="max-w-sm sm:w-1/2 md:w-1/2 lg:w-1/4 self-center ">
+                <div class="team-item" style="height: 25rem;">
                     <div class="team-img m-2 flex justify-center relative">
-                        <img class="img-fluid" src="/assets/img/orionsystem/catalogo4.jpg" alt="SMART">
+                        <img class="img-fluid" style="height: 12rem; object-fit:cover; width:fit-content;"
+                            src="assets/img/orionsystem/catalogo4.jpg" alt="SMART">
                         <div class="team-overlay">
                             <ul class="flex justify-center">
                                 <li class="mx-1">
@@ -187,10 +194,11 @@ require "header.php";
             </div>
             <!-- Education Item Ends -->
             <!-- Education Item Starts -->
-            <div class="max-w-sm sm:w-1/2 md:w-1/2 lg:w-1/4 self-center">
-                <div class="team-item">
+            <div class="max-w-sm sm:w-1/2 md:w-1/2 lg:w-1/4 self-center ">
+                <div class="team-item" style="height: 25rem;">
                     <div class="team-img m-2 flex justify-center relative">
-                        <img class="img-fluid" src="/assets/img/orionsystem/catalogo5.jpg" alt="INEDU">
+                        <img class="img-fluid" style="height: 12rem; object-fit:cover; width:fit-content;"
+                            src="assets/img/orionsystem/catalogo5.jpg" alt="INEDU">
                         <div class="team-overlay">
                             <ul class="flex justify-center">
                                 <li class="mx-1">
@@ -213,10 +221,11 @@ require "header.php";
             </div>
             <!-- Education Item Ends -->
             <!-- Education Item Starts -->
-            <div class="max-w-sm sm:w-1/2 md:w-1/2 lg:w-1/4 self-center">
-                <div class="team-item">
+            <div class="max-w-sm sm:w-1/2 md:w-1/2 lg:w-1/4 self-center ">
+                <div class="team-item" style="height: 25rem;">
                     <div class="team-img m-2 flex justify-center relative">
-                        <img class="img-fluid" src="/assets/img/orionsystem/catalogo6.jpg" alt="SIMCE">
+                        <img class="img-fluid" style="height: 12rem; object-fit:cover; width:fit-content;"
+                            src="assets/img/orionsystem/catalogo6.jpg" alt="SIMCE">
                         <div class="team-overlay">
                             <ul class="flex justify-center">
                                 <li class="mx-1">
@@ -237,10 +246,11 @@ require "header.php";
             </div>
             <!-- Education Item Ends -->
             <!-- Education Item Starts -->
-            <div class="max-w-sm sm:w-1/2 md:w-1/2 lg:w-1/4 self-center">
-                <div class="team-item">
+            <div class="max-w-sm sm:w-1/2 md:w-1/2 lg:w-1/4 self-center ">
+                <div class="team-item" style="height: 25rem;">
                     <div class="team-img m-2 flex justify-center relative">
-                        <img class="img-fluid" src="/assets/img/orionsystem/catalogo7.jpg" alt="SIMCE">
+                        <img class="img-fluid" style="height: 12rem; object-fit:cover; width:fit-content;"
+                            src="assets/img/orionsystem/catalogo7.jpg" alt="SIMCE">
                         <div class="team-overlay">
                             <ul class="flex justify-center">
                                 <li class="mx-1">
@@ -261,10 +271,11 @@ require "header.php";
             </div>
             <!-- Education Item Ends -->
             <!-- Education Item Starts -->
-            <div class="max-w-sm sm:w-1/2 md:w-1/2 lg:w-1/4 self-center">
-                <div class="team-item">
+            <div class="max-w-sm sm:w-1/2 md:w-1/2 lg:w-1/4 self-center ">
+                <div class="team-item" style="height: 25rem;">
                     <div class="team-img m-2 flex justify-center relative">
-                        <img class="img-fluid" src="/assets/img/orionsystem/catalogo8.jpg" alt="DCL">
+                        <img class="img-fluid" style="height: 12rem; object-fit:cover; width:fit-content;"
+                            src="assets/img/orionsystem/catalogo8.jpg" alt="DCL">
                         <div class="team-overlay">
                             <ul class="flex justify-center">
                                 <li class="mx-1">
@@ -286,10 +297,11 @@ require "header.php";
             </div>
             <!-- Education Item Ends -->
             <!-- Education Item Starts -->
-            <div class="max-w-sm sm:w-1/2 md:w-1/2 lg:w-1/4 self-center">
-                <div class="team-item">
+            <div class="max-w-sm sm:w-1/2 md:w-1/2 lg:w-1/4 self-center ">
+                <div class="team-item" style="height: 25rem;">
                     <div class="team-img m-2 flex justify-center relative">
-                        <img class="img-fluid" src="/assets/img/orionsystem/catalogo9.jpg" alt="DCL">
+                        <img class="img-fluid" style="height: 12rem; object-fit:cover; width:fit-content;"
+                            src="assets/img/orionsystem/catalogo9.jpg" alt="DCL">
                         <div class="team-overlay">
                             <ul class="flex justify-center">
                                 <li class="mx-1">
@@ -312,9 +324,10 @@ require "header.php";
             <!-- Education Item Ends -->
             <!-- Education Item Starts -->
             <div class="max-w-sm sm:w-1/2 md:w-1/2 lg:w-1/4 ">
-                <div class="team-item">
+                <div class="team-item" style="height: 25rem;">
                     <div class="team-img m-2 flex justify-center relative">
-                        <img class="img-fluid" src="/assets/img/orionsystem/catalogo10.jpg" alt="DCL">
+                        <img class="img-fluid" style="height: 12rem; object-fit:cover; width:fit-content;"
+                            src="assets/img/orionsystem/catalogo10.jpg" alt="DCL">
                         <div class="team-overlay">
                             <ul class="flex justify-center">
                                 <li class="mx-1">

@@ -801,6 +801,10 @@ iframe {
   align-items: center;
 }
 
+.items-stretch {
+  align-items: stretch;
+}
+
 .self-center {
   align-self: center;
 }
@@ -883,6 +887,10 @@ iframe {
 
 .m-4 {
   margin: 1rem;
+}
+
+.m-6 {
+  margin: 2rem;
 }
 
 .mx-1 {

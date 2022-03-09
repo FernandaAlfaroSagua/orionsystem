@@ -16,7 +16,7 @@ require "header.php";
         <div class="flex flex-wrap contact-form-area wow fadeInUp" data-wow-delay="0.4s">
             <div class="w-full md:w-1/2">
                 <div class="ml-3 md:ml-12 wow fadeIn">
-                    <img src="/assets/img/orionsystem/soporte.png" alt="Logo">
+                    <img src="assets/img/orionsystem/soporte.png" alt="Logo">
                 </div>
             </div>
 

@@ -64,9 +64,10 @@ require "header.php";
                 <!-- galleria starts -->
                 <div class="w-3/4 sm:w-2/3 md:w-1/2 lg:w-1/3">
                     <div class="pricing-box wow fadeInLeft" data-wow-delay="1.2s">
-                        <a href="/assets/img/orionsystem/redes1.jpg" data-fancybox=" gallery"
+                        <a href="assets/img/orionsystem/redes1.jpg" data-fancybox=" gallery"
                             data-caption="Conectividad y Redes">
-                            <img src="/assets/img/orionsystem/redes1.jpg" alt="Logo">
+                            <img src="assets/img/orionsystem/redes1.jpg"
+                                style="height: 12rem; object-fit:cover; width:fit-content;" alt="Logo">
                         </a>
                     </div>
                 </div>
@@ -74,9 +75,10 @@ require "header.php";
                 <!-- galleria starts -->
                 <div class="w-3/4 sm:w-2/3 md:w-1/2 lg:w-1/3">
                     <div class="pricing-box wow fadeInLeft" data-wow-delay="1.2s">
-                        <a href="/assets/img/orionsystem/redes2.jpg" data-fancybox=" gallery"
+                        <a href="assets/img/orionsystem/redes2.jpg" data-fancybox=" gallery"
                             data-caption="Conectividad y Redes">
-                            <img src="/assets/img/orionsystem/redes2.jpg" alt="Logo">
+                            <img src="assets/img/orionsystem/redes2.jpg"
+                                style="height: 12rem; object-fit:cover; width:fit-content;" alt="Logo">
                         </a>
                     </div>
                 </div>
@@ -84,9 +86,10 @@ require "header.php";
                 <!-- galleria starts -->
                 <div class="w-3/4 sm:w-2/3 md:w-1/2 lg:w-1/3">
                     <div class="pricing-box wow fadeInLeft" data-wow-delay="1.2s">
-                        <a href="/assets/img/orionsystem/redes3.jpg" data-fancybox=" gallery"
+                        <a href="assets/img/orionsystem/redes3.jpg" data-fancybox=" gallery"
                             data-caption="Conectividad y Redes">
-                            <img src="/assets/img/orionsystem/redes3.jpg" alt="Logo">
+                            <img src="assets/img/orionsystem/redes3.jpg"
+                                style="height: 12rem; object-fit:cover; width:fit-content;" alt="Logo">
                         </a>
                     </div>
                 </div>
@@ -94,9 +97,10 @@ require "header.php";
                 <!-- galleria starts -->
                 <div class="w-3/4 sm:w-2/3 md:w-1/2 lg:w-1/3">
                     <div class="pricing-box wow fadeInLeft" data-wow-delay="1.2s">
-                        <a href="/assets/img/orionsystem/redes4.jpg" data-fancybox=" gallery"
+                        <a href="assets/img/orionsystem/redes4.jpg" data-fancybox=" gallery"
                             data-caption="Conectividad y Redes">
-                            <img src="/assets/img/orionsystem/redes4.jpg" alt="Logo">
+                            <img src="assets/img/orionsystem/redes4.jpg"
+                                style="height: 12rem; object-fit:cover; width:fit-content;" alt="Logo">
                         </a>
                     </div>
                 </div>
@@ -104,9 +108,10 @@ require "header.php";
                 <!-- galleria starts -->
                 <div class="w-3/4 sm:w-2/3 md:w-1/2 lg:w-1/3">
                     <div class="pricing-box wow fadeInLeft" data-wow-delay="1.2s">
-                        <a href="/assets/img/orionsystem/redes5.jpg" data-fancybox=" gallery"
+                        <a href="assets/img/orionsystem/redes5.jpg" data-fancybox=" gallery"
                             data-caption="Conectividad y Redes">
-                            <img src="/assets/img/orionsystem/redes5.jpg" alt="Logo">
+                            <img src="assets/img/orionsystem/redes5.jpg"
+                                style="height: 12rem; object-fit:cover; width:fit-content;" alt="Logo">
                         </a>
                     </div>
                 </div>
@@ -114,9 +119,10 @@ require "header.php";
                 <!-- galleria starts -->
                 <div class="w-3/4 sm:w-2/3 md:w-1/2 lg:w-1/3">
                     <div class="pricing-box wow fadeInLeft" data-wow-delay="1.2s">
-                        <a href="/assets/img/orionsystem/redes6.jpg" data-fancybox=" gallery"
+                        <a href="assets/img/orionsystem/redes6.jpg" data-fancybox=" gallery"
                             data-caption="Conectividad y Redes">
-                            <img src="/assets/img/orionsystem/redes6.jpg" alt="Logo">
+                            <img src="assets/img/orionsystem/redes6.jpg"
+                                style="height: 12rem; object-fit:cover; width:fit-content;" alt="Logo">
                         </a>
                     </div>
                 </div>

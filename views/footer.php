@@ -6,13 +6,13 @@
                 <div class="mx-3 flex justify-center">
 
                     <div class="footer-logo mb-3">
-                        <img src="/assets/img/orionsystem/logo.png" alt="">
+                        <img src="assets/img/orionsystem/logo.png" alt="">
                     </div>
                 </div>
                 <div class="mx-3 flex justify-center">
 
                     <div class="footer-logo mb-3">
-                        <img src="/assets/img/orionsystem/convenio.png" alt="">
+                        <img src="assets/img/orionsystem/convenio.png" alt="">
                     </div>
                 </div>
 

@@ -34,6 +34,11 @@
 
         // Build the email content.
         $email_content = "Nombre: $name\n";
+        $email_content = "Establecimiento: $school\n";
+        $email_content = "RBD: $rbd\n";
+        $email_content = "Comuna: $comuna\n";
+        $email_content = "Cargo: $cargo\n";
+        $email_content = "Fono: $fono\n";
         $email_content .= "Email: $email\n\n";
         $email_content .= "Asunto: $asunto\n\n";
         $email_content .= "Mensaje:\n$message\n";

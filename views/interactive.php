@@ -18,7 +18,7 @@ require "header.php";
         <div class="flex flex-wrap contact-form-area wow fadeInUp" data-wow-delay="0.4s">
             <div class="w-full md:w-1/2 flex items-center flex-col">
                 <div class="m-4 md:ml-12 wow fadeIn">
-                    <img src="/assets/img/orionsystem/salas-interactivas.jpg" alt="Logo">
+                    <img src="assets/img/orionsystem/salas-interactivas.jpg" alt="Logo">
                 </div>
 
 
@@ -53,9 +53,9 @@ require "header.php";
                 <!-- galleria starts -->
                 <div class="w-3/4 sm:w-2/3 md:w-1/2 lg:w-1/3">
                     <div class="pricing-box wow fadeInLeft" data-wow-delay="1.2s">
-                        <a href="/assets/img/orionsystem/salas1.webp" data-fancybox="gallery"
+                        <a href="assets/img/orionsystem/salas1.webp" data-fancybox="gallery"
                             data-caption="Salas Interactivas">
-                            <img src="/assets/img/orionsystem/salas1.webp" alt="Logo">
+                            <img src="assets/img/orionsystem/salas1.webp" alt="Logo">
                         </a>
                     </div>
                 </div>
@@ -63,9 +63,9 @@ require "header.php";
                 <!-- galleria starts -->
                 <div class="w-3/4 sm:w-2/3 md:w-1/2 lg:w-1/3">
                     <div class="pricing-box wow fadeInLeft" data-wow-delay="1.2s">
-                        <a href="/assets/img/orionsystem/salas1.webp" data-fancybox="gallery"
+                        <a href="assets/img/orionsystem/salas1.webp" data-fancybox="gallery"
                             data-caption="Salas Interactivas">
-                            <img src="/assets/img/orionsystem/salas2.webp" alt="Logo">
+                            <img src="assets/img/orionsystem/salas2.webp" alt="Logo">
                         </a>
                     </div>
                 </div>
