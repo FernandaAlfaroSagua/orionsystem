@@ -612,7 +612,8 @@ object {
  */
 
 img,
-video {
+video,
+iframe {
   max-width: 100%;
   height: auto;
 }
@@ -766,6 +767,10 @@ video {
   display: block;
 }
 
+.inline-block {
+  display: inline-block;
+}
+
 .flex {
   display: flex;
 }
@@ -788,6 +793,10 @@ video {
 
 .items-center {
   align-items: center;
+}
+
+.self-center {
+  align-self: center;
 }
 
 .justify-start {
@@ -880,6 +889,10 @@ video {
   margin-top: 0.75rem;
   margin-bottom: 0.75rem;
 }
+.my-4 {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
 
 .mx-3 {
   margin-left: 0.75rem;
@@ -944,6 +957,10 @@ video {
   margin-right: auto;
 }
 
+.mr-1 {
+  margin-right: 0.25rem;
+}
+
 .max-w-sm {
   max-width: 24rem;
 }
@@ -972,6 +989,11 @@ video {
 .py-3 {
   padding-top: 0.75rem;
   padding-bottom: 0.75rem;
+}
+
+.px-1 {
+  padding-left: 0.25rem;
+  padding-right: 0.25rem;
 }
 
 .px-5 {
@@ -1165,6 +1187,10 @@ video {
   height: 100%;
 }
 
+.h-auto {
+  height: auto;
+}
+
 .z-20 {
   z-index: 20;
 }
@@ -1264,7 +1290,8 @@ p {
   transform: rotate(135deg);
 }
 
-.page-scroll {
+.page-scroll,
+.page-support {
   display: block;
   padding-left: 1.25rem;
   padding-right: 1.25rem;
@@ -1278,7 +1305,9 @@ p {
 }
 
 .page-scroll.active,
-.page-scroll:hover {
+.page-scroll:hover,
+.page-support.active,
+.page-support:hover {
   --text-opacity: 1;
   color: #3182ce;
   color: rgba(49, 130, 206, var(--text-opacity));
@@ -1305,6 +1334,64 @@ p {
   color: #1e40af;
   font-weight: 700;
   letter-spacing: 0.025em;
+}
+
+.solutions-dropdown {
+  opacity: 0;
+  visibility: hidden;
+}
+
+.edutick-dropdown {
+  opacity: 0;
+  visibility: hidden;
+  top: 0;
+  right: -100px;
+  position: absolute;
+}
+
+@media all and (max-width: 468px) {
+  .edutick-dropdown {
+    position: static;
+    opacity: 1;
+    visibility: visible;
+    display: block;
+  }
+
+  .edutick {
+    position: static;
+  }
+}
+
+.solutions:hover > .solutions-dropdown,
+.solutions:active > .solutions-dropdown {
+  opacity: 1;
+  visibility: visible;
+}
+
+.edutick {
+  position: relative;
+}
+
+.edutick:hover > .edutick-dropdown,
+.edutick:active > .edutick-dropdown {
+  opacity: 1;
+  visibility: visible;
+}
+
+.opacity-0 {
+  opacity: 0;
+}
+
+.opacity-1 {
+  opacity: 1;
+}
+
+.invisible {
+  visibility: hidden;
+}
+
+.visible {
+  visibility: visible;
 }
 
 .icon {
@@ -1374,6 +1461,22 @@ p {
   justify-content: center;
   align-items: center;
   width: 2.5rem;
+  height: 2.5rem;
+  --bg-opacity: 1;
+  background-color: #3182ce;
+  background-color: rgba(49, 130, 206, var(--bg-opacity));
+  border-radius: 0.25rem;
+  font-size: 1.125rem;
+  --text-opacity: 1;
+  color: #fff;
+  color: rgba(255, 255, 255, var(--text-opacity));
+  transition-duration: 300ms;
+}
+
+.catalogue-link {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   height: 2.5rem;
   --bg-opacity: 1;
   background-color: #3182ce;

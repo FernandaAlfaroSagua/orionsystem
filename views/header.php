@@ -7,8 +7,8 @@
     <div class="navigation fixed top-0 left-0 w-full z-30 duration-300 relative">
         <div class="container">
             <nav class="navbar py-2 navbar-expand-lg flex justify-between items-center relative duration-300">
-                <a class="navbar-brand mr-5" href="index.html">
-                    <img src="assets/img/orionsystem/logo-footer.png" alt="Logo">
+                <a class="navbar-brand mr-5" href="index.php">
+                    <img src="/assets/img/orionsystem/logo-footer.png" alt="Logo">
                 </a>
                 <button class="navbar-toggler focus:outline-none block lg:hidden" type="button" data-toggle="collapse"
                     data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
@@ -22,22 +22,67 @@
                     id="navbarSupportedContent">
                     <ul class="navbar-nav mr-auto justify-center items-center lg:flex">
                         <li class="nav-item">
-                            <a class="page-scroll active" href="#hero-area">Inicio</a>
+                            <a class="page-support" href="index.php">Inicio</a>
                         </li>
                         <li class="nav-item">
-                            <a class="page-scroll" href="#corportive">Corporativo</a>
+                            <a class="page-support" href="index.php#corportive">Corporativo</a>
+                        </li>
+                        <li class="nav-item solutions relative">
+                            <a class="page-support" href="#feature">Soluciones <i
+                                    class="fa-solid fa-angle-down"></i></a>
+                            <ul class="bg-white p-2 rounded shadow solutions-dropdown absolute">
+                                <li class="nav-item">
+                                    <a class="page-support" href="sala-interactiva.php">Salas Interactivas Edutick</a>
+                                </li>
+                                <li class="nav-item edutick relative">
+                                    <a class="page-support" href="">Plataforma Edutick <i
+                                            class="fa-solid fa-angle-right"></i></a>
+                                    <ul class="bg-white p-2 sm:block shadow edutick-dropdown bg-blue-100 rounded">
+                                        <li class="nav-item">
+                                            <a class="page-support" target="_blank"
+                                                href="https://dcl.edutick.cl/">DCL</a>
+                                            <hr class="dcl-color">
+
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="page-support" target="_blank"
+                                                href="https://eda.edutick.cl/login/docente">EDA</a>
+                                            <hr class="eda-color">
+
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="page-support" target="_blank"
+                                                href="https://inedu.edutick.cl/">INEDU</a>
+                                            <hr class="inedu-color">
+
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="page-support" target="_blank"
+                                                href="https://simce-online.cl/">SIMCE</a>
+                                            <hr class="simce-color mb-2">
+
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="page-support" href="conectividad-redes.php">Conectividad y Redes</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="page-support" href="eblocks.php">E-Blocks</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="page-support" href="licencias.php">Licencias</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="page-support" href="catalogo.php">Catálogo de productos</a>
+                                </li>
+                            </ul>
                         </li>
                         <li class="nav-item">
-                            <a class="page-scroll" href="#feature">Soluciones</a>
+                            <a class="page-support" href="index.php#contact">Contacto</a>
                         </li>
                         <li class="nav-item">
-                            <a class="page-scroll" href="#team">Noticias</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="page-scroll" href="#contact">Contacto</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="page-scroll" href="#support">Soporte</a>
+                            <a class="page-support" href="soporte.php">Soporte</a>
                         </li>
                     </ul>
                 </div>

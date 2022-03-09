@@ -1,3 +1,10 @@
+<?php
+
+require "head.php";
+require "header.php";
+
+?>
+
 <!-- Contact Section Start -->
 <section id="support" class="py-10 bg-blue-100">
     <div class="container">
@@ -9,7 +16,7 @@
         <div class="flex flex-wrap contact-form-area wow fadeInUp" data-wow-delay="0.4s">
             <div class="w-full md:w-1/2">
                 <div class="ml-3 md:ml-12 wow fadeIn">
-                    <img src="assets/img/orionsystem/soporte.png" alt="Logo">
+                    <img src="/assets/img/orionsystem/soporte.png" alt="Logo">
                 </div>
             </div>
 
@@ -21,20 +28,20 @@
                             <div class="w-full sm:w-1/2 md:w-full lg:w-1/2">
                                 <div class="mx-3">
                                     <input type="text" class="form-input rounded-full" id="name" name="name"
-                                        placeholder="Nombre (requerido)" required
+                                        placeholder="Nombre requerido" required
                                         data-error="Por favor, ingrese el nombre">
                                 </div>
                             </div>
                             <div class="w-full sm:w-1/2 md:w-full lg:w-1/2">
                                 <div class="mx-3">
-                                    <input type="email" placeholder="Email (requerido)" id="email"
+                                    <input type="email" placeholder="Email requerido" id="email"
                                         class="form-input rounded-full" name="email" required
                                         data-error="Por favor, ingrese el correo">
                                 </div>
                             </div>
                             <div class="w-full">
                                 <div class="mx-3">
-                                    <input type="text" placeholder="Establecimiento (requerido)" id="school"
+                                    <input type="text" placeholder="Establecimiento requerido" id="school"
                                         class="form-input rounded-full" name="school"
                                         data-error="Por favor, ingrese el establecimiento">
 
@@ -79,3 +86,9 @@
     </div>
 </section>
 <!-- Contact Section End -->
+
+<?php
+
+require "footer.php";
+
+?>

@@ -6,13 +6,13 @@
                 <div class="mx-3 flex justify-center">
 
                     <div class="footer-logo mb-3">
-                        <img src="assets/img/orionsystem/logo.png" alt="">
+                        <img src="/assets/img/orionsystem/logo.png" alt="">
                     </div>
                 </div>
                 <div class="mx-3 flex justify-center">
 
                     <div class="footer-logo mb-3">
-                        <img src="assets/img/orionsystem/convenio.png" alt="">
+                        <img src="/assets/img/orionsystem/convenio.png" alt="">
                     </div>
                 </div>
 
@@ -75,7 +75,7 @@
 
 <!-- All js Here -->
 <script src="assets/js/wow.js"></script>
-<!-- <script src="assets/js/tiny-slider.js"></script> -->
+<script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0/dist/fancybox.umd.js"></script>
 <script src="assets/js/contact-form.js"></script>
 <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
 <script src="assets/js/main.js"></script>
