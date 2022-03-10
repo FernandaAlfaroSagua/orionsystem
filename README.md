@@ -1,6 +1,6 @@
 # OrionSystem
 
-# Dependencias
+## Dependencias
 
 Instalar las dependencias de node
 
