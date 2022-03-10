@@ -76,7 +76,6 @@
 <!-- All js Here -->
 <script src="./views/assets/js/wow.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0/dist/fancybox.umd.js"></script>
-<!-- <script src="./views/assets/js/contact-form.js"></script> -->
 <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
 <script src="./views/assets/js/jquery.min.js"></script>
 <script src="./views/assets/js/jquery.easing.min.js"></script>
