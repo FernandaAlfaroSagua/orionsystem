@@ -21,7 +21,7 @@
         if ( empty($name) OR empty($school) OR empty($comuna) OR empty($cargo) OR empty($fono) OR !filter_var($email, FILTER_VALIDATE_EMAIL)) {
             // Set a 400 (bad request) response code and exit.
             http_response_code(400);
-            echo "Por favor, complete el formulario y vuelva a intentarlo.";
+            header('Location: ../index.php?error');
             exit;
         }
 
@@ -50,17 +50,20 @@
         if (mail($recipient, $email_content, $email_headers)) {
             // Set a 200 (okay) response code.
             http_response_code(200);
-            echo "Gracias! Tu mensaje ha sido enviado.";
+            header('Location: ../index.php?success');
+
         } else {
             // Set a 500 (internal server error) response code.
             http_response_code(500);
-            echo "Oops! Algo salió mal y no pudimos enviar tu mensaje.";
+            header('Location: ../index.php?error');
+
         }
 
     } else {
         // Not a POST request, set a 403 (forbidden) response code.
         http_response_code(403);
-        echo "Hubo un problema con su envío, inténtelo de nuevo.";
+        header('Location: ../index.php?error');
+
     }
 
 ?>

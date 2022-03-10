@@ -7,6 +7,37 @@
     <div class="navigation fixed top-0 left-0 w-full z-30 duration-300 relative">
         <div class="container">
             <nav class="navbar py-2 navbar-expand-lg flex justify-between items-center relative duration-300">
+                <div class="absolute right-0 z-30">
+                    <?php
+        if (isset($_GET['error'])) {
+
+            ?>
+
+                    <div class="mb-2 hideMe">
+                        <div class="my-3 error py-6 px-5 rounded shadow">
+                            Por favor, complete el formulario y vuelva a intentarlo.
+                        </div>
+                    </div>
+
+                    <?php
+        }
+
+        if (isset($_GET['success'])) {
+
+        ?>
+
+                    <div class="my-3 hideMe">
+
+                        <div class="success py-6 px-5  rounded shadow">
+                            Gracias! Tu mensaje ha sido enviado.
+                        </div>
+                    </div>
+
+                    <?php
+        }
+
+        ?>
+                </div>
                 <a class="navbar-brand mr-5" href="index.php">
                     <img src="assets/img/orionsystem/logo-footer.png" alt="Logo">
                 </a>

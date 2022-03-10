@@ -2,7 +2,7 @@
 
 <section id="hero-area relative" class="pt-24">
     <div class="flex justify-between">
-        <div class="swiper-container mySwiper w-full ">
+        <div class="mySwiper w-full " style="height: 50rem; overflow:hidden;">
             <div class="swiper-wrapper">
                 <div class="swiper-slide h-auto">
                     <div class="swiper-slide__title">
@@ -87,4 +87,5 @@
         <div class="swiper-button-prev"></div>
         <div class="swiper-button-next"></div>
     </div>
+
 </section>

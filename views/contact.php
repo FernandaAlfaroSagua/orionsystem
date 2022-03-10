@@ -22,8 +22,11 @@
                     </div>
 
                     <form id="contactForm" method="POST" action="assets/contact.php">
+
                         <div class="flex flex-wrap">
+
                             <div class="w-full sm:w-1/2 md:w-full lg:w-1/2">
+
                                 <div class="mx-3">
                                     <input type="text" class="form-input rounded-full" id="name" name="name"
                                         placeholder="Nombre (requerido)" required
